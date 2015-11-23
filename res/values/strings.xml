@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">FunFactory v1.1</string>
+    <string name="app_name">FunFactory</string>
+    <string name="button02">STOP Engine</string>
+    <string name="button03">SART Engine</string>
+    <string name="tips">请输入加速度检测数值[100-2000]</string>
+    <string name="edittext"></string>
+    <string name="button04">重置</string>
+
+</resources>
